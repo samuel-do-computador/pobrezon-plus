@@ -1,7 +1,5 @@
 .corpo{
-
     background-color:cornflowerblue ;
-    
 }
 .navbar {
     display: flex;
@@ -38,7 +36,7 @@
     color: #4CAF50;
 }
 .ima{
-    display: flex;
+    display: inline-block;
     width: 200px;
     height: 300px;
 }
